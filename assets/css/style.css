@@ -89,6 +89,7 @@ main {
     background-color: lightblue;
     /* stops shrinkage of main element when screen too small*/
     flex: 1 0 auto;
+    margin-top: 47px;
 
 }
 
