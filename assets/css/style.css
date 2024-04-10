@@ -196,6 +196,16 @@ text-align: center;
     /* override the h3 color set in the general styles*/
     color: #fafafa;
 }
+/* Gallery page*/
+
+#photos img {
+    width: 100%;
+    line-height: 1em;
+
+}
+#photos {
+    line-height: 0;
+}
 
 /* Footer*/
 #social-networks {
