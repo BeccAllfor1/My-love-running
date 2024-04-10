@@ -22,9 +22,7 @@ body {
 
 }
 
-h1,
-h2,
-h3 {
+h1, h2, h3{
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -63,7 +61,7 @@ header a {
     list-style-type: none;
 }
 
-#menu>li {
+#menu > li {
     margin-bottom: 1em;
 }
 
@@ -126,8 +124,8 @@ main {
     padding-left: 10px;
 }
 
-#cover-text>h2,
-#cover-text>h3 {
+#cover-text > h2,
+#cover-text > h3 {
     color: #ffffff;
 }
 
