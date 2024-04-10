@@ -107,6 +107,8 @@ main {
     position: relative;
 }
 
+
+
 #cover-text {
     background-color: rgba(241, 109, 107, .7);
     font-size: 130%;
@@ -148,6 +150,24 @@ main {
     padding: 0 20px;
 }
 
+#benefits-image{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*circle image*/
+#circle-cover-bg {
+    background: url("../images/reasons-image.webp") no-repeat top center / cover;
+    height: 90vw;
+    width: 90vw;
+    margin-bottom:20px;
+    border-radius: 50%;
+    max-width: 300px ;
+    max-height: 300px;
+
+}
 /* Footer*/
 #social-networks {
     text-align: center;
